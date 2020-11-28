@@ -1,0 +1,36 @@
+.country-select{
+  /* margin: 3% */
+}
+
+.title-and-cards{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2%;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 1%;
+}
+
+.title{
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.charts{
+  /* width: 45%; */
+  /* margin-left: 2%; */
+  /* margin-top: 2%; */
+}
+
+.table{
+  
+}
+
+.charts-and-table{
+  margin-top: 2%;
+  display: flex;
+  justify-content: space-evenly;
+}
